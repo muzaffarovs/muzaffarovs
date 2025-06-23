@@ -13,5 +13,5 @@ Frontend Dev | React & Next.js | MongoDB | Tailwind
 
 - 🔭 I’m currently working on a cross-platform IT startup
 - 🌱 Learning: AI + Cloudflare magic
-- 🛠️ Projects: [Shahexpress](https://www.shahexpress.uz/), Orzu Medical
-- 📫 Reach me: [Telegram](https://t.me/yourusername)
+- 🛠️ Currently working on [TSX - Toshkent Sinov Markazi](https://tsxlab.vercel.app/)
+- 📫 Reach me: [Telegram](https://t.me/urgeekboy)
