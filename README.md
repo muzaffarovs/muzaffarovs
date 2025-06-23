@@ -4,12 +4,13 @@
     <img
     src="https://komarev.com/ghpvc/?username=muzaffarovs&label=Profile%20views&color=0e75b6&style=flat"
     alt="muzaffarovs"
-/>
+    />
+    ![GitHub followers](https://img.shields.io/github/followers/muzaffarovs?label=Follow&style=social)
 </p>
 
 # Hey, I'm Rajab 👋
 
-Frontend Dev | React & Next.js | MongoDB | Tailwind
+Frontend Dev | React & Next.js | MongoDB | Tailwind 
 
 - 🔭 I’m currently working on a cross-platform IT startup
 - 🌱 Learning: AI + Cloudflare magic
