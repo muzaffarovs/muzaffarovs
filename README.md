@@ -6,7 +6,6 @@
     alt="muzaffarovs"
     />
 </p>
-    ![GitHub followers](https://img.shields.io/github/followers/muzaffarovs?label=Follow&style=social)
 
 # Hey, I'm Rajab 👋
 
@@ -17,3 +16,5 @@ React • Next.js • TypeScript • TailwindCSS • MongoDB • Firebase
 - 🌱 Learning: AI + Cloudflare magic
 - 🛠️ Currently working on [TSX - Toshkent Sinov Markazi](https://tsxlab.vercel.app/)
 - 📫 Reach me: [Telegram](https://t.me/urgeekboy)
+
+![Rajab's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajabf&show_icons=true&theme=radical)
