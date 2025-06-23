@@ -14,7 +14,7 @@
 - 📫 Reach me: [Telegram](https://t.me/urgeekboy)
 
 ### 🛠️ Tech Stack
-React • Next.js • TypeScript • TailwindCSS • MongoDB • Firebase
+React • Next.js • TypeScript • TailwindCSS • MongoDB • Firebase • Supabase • EdgeStore • Clouflare R2 
 
 ### 📊 GitHub Stats
 ![Rajab's GitHub stats](https://github-readme-stats.vercel.app/api?username=muzaffarovs&show_icons=true&theme=radical)
