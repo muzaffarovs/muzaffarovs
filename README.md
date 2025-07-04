@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on a cross-platform IT startup  
 - 🌱 Learning: AI + Cloudflare magic  
-- 🛠️ Currently working on [TSX - Toshkent Sinov Markazi](https://tsxlab.vercel.app/)  
+- 🛠️ Currently working on [TSX - Toshkent Sinov Markazi]((https://t-sx.uz))  
 - 📫 Reach me: [Telegram](https://t.me/urgeekboy)
 
 ### 🛠️ Tech Stack
