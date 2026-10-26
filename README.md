@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://muzaffarov.uz/"><img src="https://img.shields.io/badge/muzaffarov.uz-07060A?style=for-the-badge&logo=googlechrome&logoColor=F0354B" alt="Website"></a>
-  <a href="https://t.me/urgeekboy"><img src="https://img.shields.io/badge/Telegram-07060A?style=for-the-badge&logo=telegram&logoColor=F0354B" alt="Telegram"></a>
+  <a href="https://t.me/unnohwn"><img src="https://img.shields.io/badge/Telegram-07060A?style=for-the-badge&logo=telegram&logoColor=F0354B" alt="Telegram"></a>
   <a href="https://www.linkedin.com/in/muzaffarov/"><img src="https://img.shields.io/badge/LinkedIn-07060A?style=for-the-badge&logo=linkedin&logoColor=F0354B" alt="LinkedIn"></a>
   <a href="mailto:muzaffarovrajab25@gmail.com"><img src="https://img.shields.io/badge/Email-07060A?style=for-the-badge&logo=gmail&logoColor=F0354B" alt="Email"></a>
   <a href="https://muzaffarov.uz/Rajab-Muzaffarov-CV.pdf"><img src="https://img.shields.io/badge/Résumé-F0354B?style=for-the-badge&logo=readdotcv&logoColor=07060A" alt="Résumé (PDF)"></a>
